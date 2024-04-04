@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class DriverClass2 extends Movie{
+public class DriverClass extends Movie{
 	public static void main(String[] args) {
 		
 		Scanner input = new Scanner(System.in);
